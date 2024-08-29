@@ -1,0 +1,7 @@
+Animals are multicellular eukaryotes whose cells are bound together by collagen.
+Animals dominate human conceptions of life on Earth.
+Because of their size, diversity, abundance, and mobility.
+Cow,Rabbit,Dogs,Pig,Goat,Fish,Chicken,Horse.
+Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig.
+Each sign is named after an animal, and each animal has its own unique characteristics.
+

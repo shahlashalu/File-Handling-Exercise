@@ -1,0 +1,13 @@
+Animals
+Because of their size, diversity, abundance, and mobility.
+Cow
+Rabbit
+Dogs
+Pig
+Animals
+Goat
+Fish
+Chicken
+Animals
+Horse.
+
